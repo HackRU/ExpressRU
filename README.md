@@ -1,0 +1,1 @@
+In this application, we intend to create a new backend system, using Express, for hackers to register for hackathons at Rutgers University.
