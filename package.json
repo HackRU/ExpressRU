@@ -1,0 +1,24 @@
+{
+  "name": "expressru",
+  "version": "1.0.0",
+  "description": "In this application, we intend to create a new backend system, using Express, for hackers to register for hackathons at Rutgers University.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackRU/ExpressRU.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackRU/ExpressRU/issues"
+  },
+  "homepage": "https://github.com/HackRU/ExpressRU#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
